@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #fff, #fff);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.info-title{
+    margin-bottom: 70px;
+}
+
+.info-subtitle{
+    margin-bottom: 50px;
+}
+
+.info-title, .info-subtitle{
+    text-align: center;
+    animation: changeTextColor 5s infinite alternate;
+}
+
+@keyframes changeTextColor {
+    0%{
+        color: white;
+    }
+    50%{
+        color: black;
+    }
+    100%{
+        color: white;
+    }
+}
+
