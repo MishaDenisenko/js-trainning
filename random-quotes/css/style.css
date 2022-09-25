@@ -1,0 +1,43 @@
+*, p{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(to right, #4240d1, #6f46a2);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+    height: 100vh;
+    margin: 0 auto;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.main-field{
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    min-height: 200px;
+
+    justify-content: space-around;
+    align-items: center;
+
+    border: #46cdec 10px solid;
+    border-radius: 10px;
+    background: #fff;
+
+    margin-bottom: 30px;
+}
+
+p{
+    align-items: center;
+    text-align: center;
+
+    padding: 0 15px;
+}
