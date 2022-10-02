@@ -1,0 +1,36 @@
+body{
+    user-select: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    row-gap: 30px;
+
+    margin: 0 auto;
+    height: 100vh;
+
+    text-transform: uppercase;
+}
+
+.counter-title{
+    font-size: 3rem;
+    letter-spacing: 2px;
+}
+
+.counter-number{
+    font-size: 3rem;
+}
+
+.counter-buttons{
+    display: flex;
+    column-gap: 30px;
+}
+
+.counter-buttons .btn{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
