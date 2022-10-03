@@ -1,0 +1,57 @@
+body{
+    user-select: none;
+    letter-spacing: 2px;
+}
+
+ul, li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: cornflowerblue;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 10px 20px;
+}
+
+.nav-title{
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+#end{
+    color: cornflowerblue;
+}
+
+.nav-icons, .nav-links{
+    display: flex;
+    column-gap: 20px;
+}
+
+.nav-icons{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-burger, .nav-links-media{
+    display: none;
+}
+
+.nav-icon{
+    max-width: 25px;
+}
+
+.nav-icon:hover{
+    cursor: pointer;
+}
+
