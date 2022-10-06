@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0746a3cb-d217-4a9b-ac89-a5af4026e21a" name="Changes" comment="close-button">
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="0746a3cb-d217-4a9b-ac89-a5af4026e21a" name="Changes" comment="standard-files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="book-finder-app" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +56,7 @@
       <workItem from="1664740854302" duration="5491000" />
       <workItem from="1664818029528" duration="21711000" />
       <workItem from="1664905015053" duration="5206000" />
-      <workItem from="1665070541192" duration="9174000" />
+      <workItem from="1665070541192" duration="10853000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1664133885794</created>
@@ -104,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665091998785</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="standard-files">
+      <created>1665092195882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665092195882</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +140,7 @@
     <MESSAGE value="close-icon" />
     <MESSAGE value="done" />
     <MESSAGE value="close-button" />
-    <option name="LAST_COMMIT_MESSAGE" value="close-button" />
+    <MESSAGE value="standard-files" />
+    <option name="LAST_COMMIT_MESSAGE" value="standard-files" />
   </component>
 </project>
