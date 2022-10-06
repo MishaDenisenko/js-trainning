@@ -1,0 +1,129 @@
+ul, li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body{
+    user-select: none;
+    background: rgb(53, 54, 58);
+}
+
+.container{
+    min-height: 100vh;
+    padding: 15px 20px;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.title{
+    color: #fff;
+}
+
+#start{
+    color: #fff;
+}
+
+#end{
+    color: #fff;
+}
+
+.search-field{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 20px;
+}
+
+.search-label{
+    display: none;
+}
+
+.search-input{
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+
+    padding: 0 15px;
+
+    background: #ffffff;
+    outline: none;
+    color: rgb(53, 54, 58);
+    font-size: 1.2rem;
+    font-weight: 500;
+    -webkit-appearance: none;
+}
+
+.search-input::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    width: 15px;
+    height: 15px;
+    background: url("../icons/close-button.png") no-repeat;
+    background-size: 15px;
+    cursor: pointer;
+}
+
+.book-list{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    width: 100%;
+
+    color: #fff;
+}
+
+.list-item{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.item-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 100px;
+}
+
+.item-right{
+    max-width: 300px;
+}
+
+.book-description{
+    text-align: justify;
+}
+
+.accordion-item{
+    color: #fff;
+    background: rgb(53, 54, 58);
+}
+
+.accordion-button{
+    color: #fff;
+    background: rgb(53, 54, 58);
+    border-bottom: 1px #fff solid;
+    box-shadow: none;
+}
+
+.accordion-button:focus{
+    border-bottom: 1px #fff solid;
+    box-shadow: none;
+}
+
+.accordion-button:not(.collapsed){
+    color: #fff;
+    border-bottom: 1px #fff solid;
+}
+
+.accordion-button:not(.collapsed){
+    background: rgb(53, 54, 58);
+}
+
+.accordion-button::after, .accordion-button:not(.collapsed)::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
