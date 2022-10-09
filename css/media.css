@@ -1,0 +1,27 @@
+@media (max-width: 700px) {
+    .block-center{
+        grid-auto-flow: row;
+        grid-template-columns: 1fr;
+    }
+
+    .block-bottom{
+        row-gap: 7px;
+        grid-template-columns: 1fr;
+        grid-template-rows: 50px auto auto 50px;
+    }
+
+    .info-item:nth-child(8){
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swap-btn{
+        transform: rotateZ(90deg);
+    }
+
+    .swap-btn.rotate{
+        transform: rotateZ(270deg);
+    }
+
+}
