@@ -1,0 +1,138 @@
+ul, li{
+    list-style: none;
+
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    border: none;
+}
+
+input:focus-visible{
+    outline: none;
+}
+
+body{
+    background: #3B3B98;
+    user-select: none;
+}
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-block{
+    display: flex;
+    flex-direction: column;
+
+    width: 350px;
+
+    border-radius: 5px;
+
+    padding: 20px 20px;
+    color: #fff;
+    background: #23235B;
+    box-shadow: 0 0 5px 3px #7f72e5;
+}
+
+.block-title{
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.password-block{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 50px;
+
+    margin-bottom: 15px;
+    border-radius: 5px;
+
+    padding: 0 10px;
+
+    background: #16163a;
+}
+
+.password-field{
+    user-select: text;
+    display: flex;
+    align-items: center;
+    word-break: break-all;
+
+    margin-right: 15px;
+}
+
+.password-block:last-child{
+    margin-bottom: 0;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.password-action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    column-gap: 10px;
+}
+
+.password-action > svg{
+    cursor: pointer;
+}
+
+.password-criteria{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+
+    margin-bottom: 20px;
+}
+
+#symbols-count{
+    width: 100px;
+    padding: 0 0 0 5px;
+    border-radius: 5px;
+}
+
+.criteria-item{
+    width: 100%;
+}
+
+.criteria-label{
+    display: flex;
+    justify-content: space-between;
+}
+
+.criteria-input, .criteria-info{
+    cursor: pointer;
+}
+
+.criteria-info::first-letter{
+    text-transform: uppercase;
+}
+
+.generate-btn{
+    width: 100%;
+    text-transform: capitalize;
+    font-size: 1.3rem;
+    min-height: 50px;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    background: #3B3B98;
+    margin-bottom: 20px;
+}

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0746a3cb-d217-4a9b-ac89-a5af4026e21a" name="Changes" comment="standard-files" />
+    <list default="true" id="0746a3cb-d217-4a9b-ac89-a5af4026e21a" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -57,6 +63,9 @@
       <workItem from="1664818029528" duration="21711000" />
       <workItem from="1664905015053" duration="5206000" />
       <workItem from="1665070541192" duration="10853000" />
+      <workItem from="1665511329305" duration="8267000" />
+      <workItem from="1665523163643" duration="2130000" />
+      <workItem from="1665575662000" duration="7264000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1664133885794</created>
