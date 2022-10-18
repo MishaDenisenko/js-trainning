@@ -1,0 +1,41 @@
+.header-container{
+
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    background: var(--color-dark-grey);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    padding: var(--size-average) var(--size-average);
+}
+
+.header-nav{
+    display: flex;
+    column-gap: 20px;
+}
+
+.header-nav-item{
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.header-cart{
+    cursor: pointer;
+    transition: transform 100ms ease-in;
+}
+
+.header-cart:hover{
+    transform: scale(1.1);
+}
+
+.header-cart__counter{
+    font-weight: 600;
+}

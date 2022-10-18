@@ -1,0 +1,63 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0746a3cb-d217-4a9b-ac89-a5af4026e21a\" name=\"Changes\" comment=\"normalize-style-added\">\r\n      <change afterPath=\"$PROJECT_DIR$/css/media.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/css/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/css/style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/html/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/html/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/js/App.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/js/App.js\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FGtmnwFSLcUyZ5FAEJrAEshYUz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0746a3cb-d217-4a9b-ac89-a5af4026e21a\" name=\"Changes\" comment=\"\" />\r\n      <created>1664130410481</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664130410481</updated>\r\n      <workItem from=\"1664130413644\" duration=\"3600000\" />\r\n      <workItem from=\"1664134058806\" duration=\"14768000\" />\r\n      <workItem from=\"1664740854302\" duration=\"5491000\" />\r\n      <workItem from=\"1664818029528\" duration=\"21711000\" />\r\n      <workItem from=\"1664905015053\" duration=\"5206000\" />\r\n      <workItem from=\"1665070541192\" duration=\"10853000\" />\r\n      <workItem from=\"1665169670260\" duration=\"7973000\" />\r\n      <workItem from=\"1665251920708\" duration=\"7501000\" />\r\n      <workItem from=\"1665326271797\" duration=\"19353000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"done\">\r\n      <created>1664133885794</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1664133885794</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"done\">\r\n      <created>1664742973089</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1664742973089</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"done\">\r\n      <created>1664824952418</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1664824952418</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"close-icon\">\r\n      <created>1664824979764</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1664824979764</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"done\">\r\n      <created>1665091912225</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665091912225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"close-button\">\r\n      <created>1665091998785</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665091998785</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"standard-files\">\r\n      <created>1665092195882</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665092195882</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/MishaDenisenko-hex-colors\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"close-icon\" />\r\n    <MESSAGE value=\"done\" />\r\n    <MESSAGE value=\"close-button\" />\r\n    <MESSAGE value=\"standard-files\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"standard-files\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,13 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="0746a3cb-d217-4a9b-ac89-a5af4026e21a" name="Changes" comment="normalize-style-added">
+-      <change afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/js/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/App.js" afterDir="false" />
+-    </list>
++    <list default="true" id="0746a3cb-d217-4a9b-ac89-a5af4026e21a" name="Changes" comment="done" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -65,7 +59,7 @@
+       <workItem from="1665070541192" duration="10853000" />
+       <workItem from="1665169670260" duration="7973000" />
+       <workItem from="1665251920708" duration="7501000" />
+-      <workItem from="1665326271797" duration="19353000" />
++      <workItem from="1665326271797" duration="19797000" />
+     </task>
+     <task id="LOCAL-00001" summary="done">
+       <created>1664133885794</created>
+@@ -116,7 +110,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1665092195882</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="done">
++      <created>1665356837659</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1665356837659</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -147,9 +148,9 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="close-icon" />
+-    <MESSAGE value="done" />
+     <MESSAGE value="close-button" />
+     <MESSAGE value="standard-files" />
+-    <option name="LAST_COMMIT_MESSAGE" value="standard-files" />
++    <MESSAGE value="done" />
++    <option name="LAST_COMMIT_MESSAGE" value="done" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;550;600&display=swap');
+
+:root{
+    --color-white: #fff;
+    --color-purple: #9579fa;
+    --color-lite-grey: #efefef;
+    --color-dark-grey: #c9c9c9;
+    --color-shadow: #d3d3d3;
+    --color-unaccent: #808080;
+    --color-red: #ff7878;
+
+    --border-radius: 5px;
+    --size-small: 5px;
+    --size-less-average: 10px;
+    --size-average: 15px;
+    --size-more-average: 20px;
+    --size-big: 50px
+
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+ul, li{
+    list-style: none;
+}
+
+body{
+    user-select: none;
+    font-family: Inter, serif;
+    background: var(--color-lite-grey);
+}
+
+.container{
+    max-width: 1170px;
+    padding: var(--size-more-average) var(--size-big);
+    margin: 0 auto;
+}
+
+.counter{
+    display: flex;
+    column-gap: 5px;
+}
+
+.counter-item{
+    display: flex;
+    align-items: center;
+    color: var(--color-purple);
+    padding: var(--size-small) var(--size-small);
+}
+
+.counter-item__decrease, .counter-item__increase{
+    cursor: pointer;
+}

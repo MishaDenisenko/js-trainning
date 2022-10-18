@@ -1,13 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Simple Guitar Shop</title>
+
+    <link rel="shortcut icon" href="../icons/fav-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="../css/normalize.css">
     <link rel="stylesheet" href="../css/style.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 </head>
 <body>
 
+    <div id="header"></div>
+    <div class="container">
+        <div id="products"></div>
+        <div id="shopping"></div>
+        <div id="spinner"></div>
+        <div id="error"></div>
+    </div>
+
+
+    <script src="../constants/catalog.js"></script>
+    <script src="../constants/root.js"></script>
+    <script src="../utils/localStorageUtil.js"></script>
+
+    <script src="../components/Header/Header.js"></script>
+    <link rel="stylesheet" href="../components/Header/Header.css">
+
+    <script src="../components/Products/Products.js"></script>
+    <link rel="stylesheet" href="../components/Products/Products.css">
+
+    <script src="../components/Shopping/Shopping.js"></script>
+    <link rel="stylesheet" href="../components/Shopping/Shopping.css">
+
+    <script src="../components/Spinner/Spinner.js"></script>
+    <link rel="stylesheet" href="../components/Spinner/Spinner.css">
+
+    <script src="../components/Error/Error.js"></script>
+    <link rel="stylesheet" href="../components/Error/Error.css">
+
+    <script src="../js/counter.js"></script>
     <script src="../js/App.js"></script>
 </body>
 </html>

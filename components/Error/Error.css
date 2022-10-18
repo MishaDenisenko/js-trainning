@@ -1,0 +1,20 @@
+.error-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    height: 100%;
+    margin-top: 50px;
+
+    color: var(--color-red);
+}
+
+.error-container__msg{
+    color: var(--color-unaccent);
+}
+
+.error-container__img{
+    max-width: 256px;
+    max-height: 256px;
+}
